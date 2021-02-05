@@ -1,23 +1,57 @@
-#List Tuples Sets Dictionaries
+#List,Tuples,Sets,Dictionaries
+->All this are different Array Collections in python 
+CommonFunction
 1. List:
    -Are Ordered,Changeable and allow duplicate values.
    -List item are indexed. 
    -Allow Duplicates.
    -Syntax:
-     ThisList=["item1","item2","item3","item4"]
-   -Funtion:
-     len():-Shows the length or number of items of given list 
-            Syntax:print(len(ThisLength))
-                   output:4(prints the number of items in len)
+     ThisList=["item1","item2","item3","item4"]  #Written with bracket's 
+   -Function:
+     len():
+      Shows the length or number of items of given list 
+      Syntax:print(len(ThisList))
+      output:4(prints the number of items in List)
    -Contructor(list()):
      List can created using Constructors
-     Syntax of Constructor:-ThisList=list(("item1","item2","item3","item4"))
-                            print(ThisList)
-                            output:['item1','item2','item3']
+     Syntax of Constructor:-
+      ThisList=list(("item1","item2","item3","item4"))
+      print(ThisList)
+      output:['item1','item2','item3']
                             
 2. Tuples:
-    -
-   
+    -Are used to store multiple item in a single variable
+    -A tuple is a collection which is ordered and
+    -Written with round brackets
+    -Syntax:
+      ThisTuples=("item1","item2","item3","item4")
+      print(ThisTuple)
+      output:('item1','item2','item3','item4')
+    -Function:
+      len():
+         Shows the length or number of items of given Tuple 
+         Syntax:print(len(ThisTuple))
+         output:4(prints the number of items in Tuple)
+      Contructor(list()):
+         List can created using Constructors
+         Syntax of Constructor:-
+            ThisTuple=tuple(("item1","item2","item3","item4"))
+            print(ThisTuple)
+            output:('item1','item2','item3')
+    
+3. Sets
+      -A set is a collection which is both unordered and unindexed 
+      -Is Unhangeable,but items can be added in sets 
+      -Flower brackets are used in sets 
+      -Unindexed means it cannot be called or referred by any keys or index
+      -Syntax:
+         ThisSet={"Apple,"Banana","Mango","Apricot"}
+         print(ThisSet)
+         output:{'Apple','Banana','Mango','Apricot'}
+      
+      
+        
+                   
    
    
    
