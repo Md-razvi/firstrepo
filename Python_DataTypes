@@ -1,0 +1,23 @@
+#List Tuples Sets Dictionaries
+1. List:
+   -Are Ordered,Changeable and allow duplicate values.
+   -List item are indexed. 
+   -Allow Duplicates.
+   -Syntax:
+     ThisList=["item1","item2","item3","item4"]
+   -Funtion:
+     len():-Shows the length or number of items of given list 
+            Syntax:print(len(ThisLength))
+                   output:4(prints the number of items in len)
+   -Contructor(list()):
+     List can created using Constructors
+     Syntax of Constructor:-ThisList=list(("item1","item2","item3","item4"))
+                            print(ThisList)
+                            output:['item1','item2','item3']
+                            
+2. Tuples:
+    -
+   
+   
+   
+   
