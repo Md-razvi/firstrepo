@@ -48,6 +48,12 @@ CommonFunction
          ThisSet={"Apple,"Banana","Mango","Apricot"}
          print(ThisSet)
          output:{'Apple','Banana','Mango','Apricot'}
+ 
+4. Dictionary
+      -A dictionary is a collection which is unordered and changeable array
+      -It also does not allow dupllicates
+      -It consist of keys and values
+      -flower brackets are used un this 
       
       
         
